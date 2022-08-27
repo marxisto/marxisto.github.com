@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(89, 29, 7);
+}
+p{
+    font-family: papyrus;
+    font-size:40px ;
+     background-color:rgb(177, 32, 32);
+    width: 280px;
+    height: 80px;
+        border-radius: 70px;
+
+}
+img{
+     width: 400px;
+    border: 02px solid ;
+    border-radius: 70px;
+}
+strong{
+    font-size: 45px;
+    font-family: papyrus;
+    color: #e97821;
+}

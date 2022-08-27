@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(89, 29, 7);
+}
+#part{
+    background-color:rgb(177, 32, 32);
+height:550px;
+width:1200px;
+border: 1px solid rgb(14, 14, 1);
+border-radius:10px;
+}
+strong{
+    font-size: 80px;
+    color: black;
+}
+p{
+    font-size: 40px;
+    color: black;
+    float:right;
+}
+button{
+    height: 60px;
+    width: 400px;
+    font-size: 30px;
+    background-color: orangered;
+    border: 4px inset rgb(8, 151, 151);
+    border-radius: 10px;
+    
+}
+a{
+    text-decoration:none;
+    color:black
+}
+h1{
+    font-size:50px;
+    font-family:papyrus;
+}
+h2{
+    text-align: center;
+     font-size:17px;
+     background-color: black;
+     color: white;
+     opacity: 0.8;
+}
